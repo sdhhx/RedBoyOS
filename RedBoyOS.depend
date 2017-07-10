@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1437099496 source:c:\users\hhx\desktop\redboyos\redboyos\filer.c
+	<stdio.h>
+	<string.h>
+
+1436966248 source:c:\users\hhx\desktop\redboyos\redboyos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1436937298 source:c:\users\hhx\desktop\redboyos\redboyos\memory.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1437099963 source:c:\users\hhx\desktop\redboyos\redboyos\process_sched.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
